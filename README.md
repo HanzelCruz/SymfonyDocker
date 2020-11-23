@@ -1,4 +1,4 @@
-# Docker Symfony (PHP - NGINX - MySQL)
+# Docker Symfony (REST API - PHP - NGINX - MySQL)
 
 Docker-symfony gives you everything you need for developing Symfony application. 
 
